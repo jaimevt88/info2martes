@@ -3,7 +3,7 @@
 /*
  *
  * Esto es un código malo
- *
+ * Esto es mentira
  */
 
 void redArr(int*& arr, int& capacidad){
