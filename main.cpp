@@ -4,6 +4,7 @@
  *
  * Esto es un código malo
  * Esto es mentira
+ * segundfa mentira
  */
 
 void redArr(int*& arr, int& capacidad){
