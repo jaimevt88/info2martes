@@ -1,5 +1,11 @@
 #include <iostream>
 
+/*
+ *
+ * Esto es un código malo
+ *
+ */
+
 void redArr(int*& arr, int& capacidad){
 
     int nuevaCap = capacidad * 2;
